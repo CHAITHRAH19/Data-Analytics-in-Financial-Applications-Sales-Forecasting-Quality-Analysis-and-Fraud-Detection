@@ -72,21 +72,6 @@ This repository focuses on a data analytics project in financial applications, c
 
 ---
 
-## 📂 Repository Structure
-
-```
-financial-data-analytics/
-│
-├── data/               # Datasets used for analysis
-├── notebooks/          # Jupyter notebooks for each task
-├── models/             # Trained models (if applicable)
-├── reports/            # Figures, outputs, and analysis summaries
-├── README.md           # Project documentation
-└── requirements.txt    # Python dependencies
-```
-
----
-
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
